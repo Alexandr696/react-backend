@@ -1,0 +1,3 @@
+login: smuzelskih
+pass: XJBojDtJbvZbRpsp
+conn: mongodb+srv://smuzelskih:XJBojDtJbvZbRpsp@cluster0.of2x0mu.mongodb.net/?retryWrites=true&w=majority
